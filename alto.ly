@@ -1,7 +1,7 @@
 \version "2.24.0"
 \include "alto_impl.ly"
 
- #(set-global-staff-size 19)
+ #(set-global-staff-size 20)
 
 \book {
   \header{
