@@ -1,6 +1,6 @@
 \version "2.24.0"
 \include "soprano_impl.ly"
- #(set-global-staff-size 19)
+ #(set-global-staff-size 18)
 
 \book {
   

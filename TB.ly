@@ -5,8 +5,8 @@
 
 
 global= {
-  \time 2/2
-  \key d \minor
+  \time 4/4
+  \key g \minor
 }
 
 music = {

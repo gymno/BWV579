@@ -20,7 +20,7 @@ g d g4~ g8 fis16 e fis4|g r r2|R1|r2 r4 r16 bes d es|
 f4 r16 f, a bes c4 r16 cis b cis|d4 r16 f, e f g4 r16 a g a|
 %%30
 d,4 r16 es' d es c4 r16 d c d|
-g,4 g' e es8 d|es2 d|c bes4. c16 bes|a2 bes4 es,~|
+g,4 g' f es8 d|es2 d|c bes4. c16 bes|a2 bes4 es,~|
 es d8 g e c f4~|f e8 a fis d g4~|
 g f8 bes g e a g|f d g f e c f4~|f8 g16 f e4 f r|
 R1*7|a2 g f e4. f16 e|d8 e f d es4. r8|
