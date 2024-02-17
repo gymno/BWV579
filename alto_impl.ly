@@ -12,7 +12,7 @@ alto=\new Voice \compressMMRests { \relative c'' {
   d2 g,4 g'| f es8 d es2 | d2 c | bes a|
   bes8 c d es f g a f | g4. a16 g f2| g4 c, d4. es16 d | c4. a'8 g2| f g4 a~|
   %%10
-  a8 g16 fis g2~ g8 f|g4 d8 e f4 bes~|bes8 e, a4~ a8 d, g4|a4 cis, d e|a, r4 r2|
+  a8 g16 fis g2~ g8 fis|g4 d8 e f4 bes~|bes8 e, a4~ a8 d, g4|a4 cis, d e|a, r4 r2|
   R1*6|
   %%21
   r4 d g, g'|f es8 d es2|d c|bes4. c16 bes a2|
@@ -30,7 +30,7 @@ alto=\new Voice \compressMMRests { \relative c'' {
   a8 d, g2 fis4|g2. fis4|g4 r r2|r2 r8 d d d|
   e e e fis g d g4~|g8 g c4~ c8 bes16 a bes4|a2 g2|f e|
   %%60
-  d c|b a|g4 r r2|R1*4|r2 r4 a'|d, g~ g8 c, f4~|f16 a g f e4 a2|
+  d c|bes a|g4 r r2|R1*4|r2 r4 a'|d, g~ g8 c, f4~|f16 a g f e4 a2|
   %%70
   g f|e8 f e4 d r8 d|c2 bes4 r8 g'|fis g4 fis8 g es a,4|bes r8 d a4 d~|d8 es16 d c4~ c8 d16 c bes4|
   c c f, r8 d'|c16bes c d c8. bes16 bes4. bes8|a4. a8 g bes' a g|
