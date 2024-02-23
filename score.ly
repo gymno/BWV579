@@ -47,8 +47,8 @@ music = {
     \midi {
       \context {
         \Score
-        tempoWholesPerMinute = #(ly:make-moment 120 4)
       }
+      \tempo 4 = 96
     }
   }
 }
