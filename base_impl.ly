@@ -27,13 +27,16 @@ d e f d g e a g|fis d g2 f4~|f es d2|c4 r8 es f d g f|
 e c f a, d b e d|cis a d f, bes g c bes|a f bes bes g e a4|
 d r r2|
 %%50
-R1*3|r2 r4 d|g, g' f es8 d|es2 d|c bes|
+R1*2|r2 r4. d8|es r r bes c r d4|g, g' f es8 d|es2 d|c bes|
 a g4. bes8|c a d c b4 r8 c|a f bes a g4 r8 a'|
 %%60
-fis d g f es4 r8 f|d bes es d c4 d|g,2 r|R1*10
-%%73
-r2 r4 d'|g, g' f es8 d|es2 d|c bes|a g4. bes8|c4 d es2|
-d4 g2 f4~|
+fis d g f es4 r8 f|d bes es d c4 d|g,2 r4 bes'8 g|
+a4. d8 g,4. c8|f,4. f8 b, e a a,|d4 r8 e f16 g e f g a f g|
+a4 r16 bes a bes e,4 r16 a g a|
+f a g a e a g a d, a' g a c, a' g a|bes,4 r r2|R1|
+%%70
+R1*3|r2 r4 d|g, g' f es8 d|es2 d|c bes|
+a g4. bes8|c4 d es2|d4 g2 f4~|
 %%80
 f es2 d4~|d c2 bes4~|bes r8 a bes4 c|d4 r8 d es d es bes|
 c bes c a d c d a|b a b g c b c g|a bes g a bes es, f4|

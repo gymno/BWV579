@@ -30,7 +30,9 @@ alto=\new Voice \compressMMRests { \relative c'' {
   a8 d, g2 fis4|g2. fis4|g4 r r2|r2 r8 d d d|
   e e e fis g d g4~|g8 g c4~ c8 bes16 a bes4|a2 g2|f e|
   %%60
-  d c|bes a|g4 r r2|R1*4|r2 r4 a'|d, g~ g8 c, f4~|f16 a g f e4 a2|
+  d c|bes a|g4 r8 es'' fis, d g4~|g8 c f,?4~ f8 bes e,4~|
+  e8 a d d, g4. g8|f16 g e f g a f g a8 d, r e|
+  cis16 a' g a d,4 r2|r2 r4 a'|d, g~ g8 c, f4~|f16 a g f e4 a2|
   %%70
   g f|e8 f e4 d r8 d|c2 bes4 r8 g'|fis g4 fis8 g es a,4|bes r8 d a4 d~|d8 es16 d c4~ c8 d16 c bes4|
   c c f, r8 d'|c16bes c d c8. bes16 bes4. bes8|a4. a8 g bes' a g|
